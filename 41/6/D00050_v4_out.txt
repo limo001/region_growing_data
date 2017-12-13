@@ -1,0 +1,1314 @@
+PCDs_3/D00050_v4.pcd
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   0.1
+clusters_size:    27
+clusters 0   453927
+clusters 1   1393
+clusters 2   148
+clusters 3   55
+clusters 4   84
+clusters 5   248
+clusters 6   8932
+clusters 7   52
+clusters 8   50
+clusters 9   324
+clusters 10   119
+clusters 11   57
+clusters 12   349
+clusters 13   80
+clusters 14   80
+clusters 15   79
+clusters 16   84
+clusters 17   77
+clusters 18   52
+clusters 19   104
+clusters 20   54
+clusters 21   53
+clusters 22   66
+clusters 23   70
+clusters 24   94
+clusters 25   82
+clusters 26   97
+
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   0.2
+clusters_size:    20
+clusters 0   457348
+clusters 1   1722
+clusters 2   55
+clusters 3   259
+clusters 4   8999
+clusters 5   52
+clusters 6   120
+clusters 7   57
+clusters 8   370
+clusters 9   51
+clusters 10   81
+clusters 11   52
+clusters 12   67
+clusters 13   102
+clusters 14   83
+clusters 15   104
+clusters 16   66
+clusters 17   71
+clusters 18   52
+clusters 19   97
+
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   0.3
+clusters_size:    15
+clusters 0   458346
+clusters 1   1741
+clusters 2   55
+clusters 3   259
+clusters 4   9001
+clusters 5   52
+clusters 6   120
+clusters 7   57
+clusters 8   379
+clusters 9   85
+clusters 10   51
+clusters 11   67
+clusters 12   83
+clusters 13   104
+clusters 14   97
+
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   0.4
+clusters_size:    13
+clusters 0   458867
+clusters 1   1742
+clusters 2   55
+clusters 3   259
+clusters 4   9007
+clusters 5   52
+clusters 6   120
+clusters 7   57
+clusters 8   381
+clusters 9   86
+clusters 10   83
+clusters 11   104
+clusters 12   97
+
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   0.5
+clusters_size:    13
+clusters 0   458977
+clusters 1   1744
+clusters 2   55
+clusters 3   259
+clusters 4   9008
+clusters 5   52
+clusters 6   120
+clusters 7   57
+clusters 8   382
+clusters 9   86
+clusters 10   83
+clusters 11   104
+clusters 12   97
+
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   0.6
+clusters_size:    12
+clusters 0   459095
+clusters 1   1746
+clusters 2   55
+clusters 3   259
+clusters 4   9009
+clusters 5   52
+clusters 6   120
+clusters 7   57
+clusters 8   382
+clusters 9   83
+clusters 10   104
+clusters 11   97
+
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   0.7
+clusters_size:    12
+clusters 0   459151
+clusters 1   1746
+clusters 2   55
+clusters 3   260
+clusters 4   9009
+clusters 5   52
+clusters 6   120
+clusters 7   57
+clusters 8   382
+clusters 9   83
+clusters 10   104
+clusters 11   97
+
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   0.8
+clusters_size:    12
+clusters 0   459162
+clusters 1   1746
+clusters 2   55
+clusters 3   260
+clusters 4   9009
+clusters 5   52
+clusters 6   120
+clusters 7   57
+clusters 8   382
+clusters 9   83
+clusters 10   104
+clusters 11   97
+
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   0.9
+clusters_size:    12
+clusters 0   459187
+clusters 1   1746
+clusters 2   55
+clusters 3   260
+clusters 4   9009
+clusters 5   52
+clusters 6   120
+clusters 7   57
+clusters 8   382
+clusters 9   83
+clusters 10   104
+clusters 11   97
+
+cluster_tolerance_:  0.005
+eps_angle_threshold_:   1
+clusters_size:    12
+clusters 0   459242
+clusters 1   1746
+clusters 2   55
+clusters 3   260
+clusters 4   9009
+clusters 5   52
+clusters 6   120
+clusters 7   57
+clusters 8   383
+clusters 9   83
+clusters 10   104
+clusters 11   97
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   0.1
+clusters_size:    23
+clusters 0   456714
+clusters 1   1725
+clusters 2   55
+clusters 3   266
+clusters 4   8984
+clusters 5   54
+clusters 6   332
+clusters 7   119
+clusters 8   57
+clusters 9   376
+clusters 10   161
+clusters 11   179
+clusters 12   56
+clusters 13   69
+clusters 14   73
+clusters 15   106
+clusters 16   116
+clusters 17   61
+clusters 18   66
+clusters 19   74
+clusters 20   99
+clusters 21   83
+clusters 22   111
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   0.2
+clusters_size:    14
+clusters 0   458984
+clusters 1   1794
+clusters 2   55
+clusters 3   270
+clusters 4   9012
+clusters 5   54
+clusters 6   120
+clusters 7   57
+clusters 8   384
+clusters 9   84
+clusters 10   116
+clusters 11   85
+clusters 12   59
+clusters 13   111
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   0.3
+clusters_size:    11
+clusters 0   459389
+clusters 1   2070
+clusters 2   55
+clusters 3   9019
+clusters 4   54
+clusters 5   120
+clusters 6   57
+clusters 7   384
+clusters 8   84
+clusters 9   116
+clusters 10   111
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   0.4
+clusters_size:    11
+clusters 0   459578
+clusters 1   2070
+clusters 2   55
+clusters 3   9019
+clusters 4   54
+clusters 5   120
+clusters 6   57
+clusters 7   392
+clusters 8   84
+clusters 9   116
+clusters 10   111
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   0.5
+clusters_size:    11
+clusters 0   459697
+clusters 1   2070
+clusters 2   55
+clusters 3   9019
+clusters 4   54
+clusters 5   120
+clusters 6   57
+clusters 7   392
+clusters 8   84
+clusters 9   116
+clusters 10   111
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   0.6
+clusters_size:    11
+clusters 0   459735
+clusters 1   2071
+clusters 2   55
+clusters 3   9019
+clusters 4   54
+clusters 5   120
+clusters 6   57
+clusters 7   392
+clusters 8   84
+clusters 9   116
+clusters 10   111
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   0.7
+clusters_size:    11
+clusters 0   459819
+clusters 1   2071
+clusters 2   55
+clusters 3   9019
+clusters 4   54
+clusters 5   120
+clusters 6   57
+clusters 7   394
+clusters 8   84
+clusters 9   116
+clusters 10   111
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   0.8
+clusters_size:    11
+clusters 0   459840
+clusters 1   2071
+clusters 2   55
+clusters 3   9019
+clusters 4   54
+clusters 5   120
+clusters 6   57
+clusters 7   394
+clusters 8   84
+clusters 9   116
+clusters 10   111
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   0.9
+clusters_size:    11
+clusters 0   459844
+clusters 1   2071
+clusters 2   55
+clusters 3   9019
+clusters 4   54
+clusters 5   120
+clusters 6   57
+clusters 7   394
+clusters 8   84
+clusters 9   116
+clusters 10   111
+
+cluster_tolerance_:  0.01
+eps_angle_threshold_:   1
+clusters_size:    11
+clusters 0   459848
+clusters 1   2071
+clusters 2   55
+clusters 3   9019
+clusters 4   54
+clusters 5   120
+clusters 6   57
+clusters 7   394
+clusters 8   84
+clusters 9   116
+clusters 10   111
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   0.1
+clusters_size:    17
+clusters 0   458695
+clusters 1   1755
+clusters 2   80
+clusters 3   268
+clusters 4   82
+clusters 5   9005
+clusters 6   181
+clusters 7   333
+clusters 8   64
+clusters 9   58
+clusters 10   379
+clusters 11   60
+clusters 12   131
+clusters 13   174
+clusters 14   83
+clusters 15   57
+clusters 16   112
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   0.2
+clusters_size:    14
+clusters 0   459622
+clusters 1   2075
+clusters 2   80
+clusters 3   85
+clusters 4   9012
+clusters 5   182
+clusters 6   69
+clusters 7   58
+clusters 8   384
+clusters 9   131
+clusters 10   60
+clusters 11   174
+clusters 12   57
+clusters 13   112
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   0.3
+clusters_size:    14
+clusters 0   459732
+clusters 1   2075
+clusters 2   80
+clusters 3   86
+clusters 4   9019
+clusters 5   182
+clusters 6   69
+clusters 7   58
+clusters 8   384
+clusters 9   154
+clusters 10   61
+clusters 11   175
+clusters 12   57
+clusters 13   112
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   0.4
+clusters_size:    13
+clusters 0   459879
+clusters 1   2075
+clusters 2   80
+clusters 3   9019
+clusters 4   182
+clusters 5   69
+clusters 6   58
+clusters 7   394
+clusters 8   171
+clusters 9   61
+clusters 10   175
+clusters 11   57
+clusters 12   112
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   0.5
+clusters_size:    13
+clusters 0   459925
+clusters 1   2075
+clusters 2   80
+clusters 3   9019
+clusters 4   182
+clusters 5   69
+clusters 6   58
+clusters 7   397
+clusters 8   173
+clusters 9   61
+clusters 10   175
+clusters 11   57
+clusters 12   112
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   0.6
+clusters_size:    13
+clusters 0   459934
+clusters 1   2076
+clusters 2   80
+clusters 3   9019
+clusters 4   182
+clusters 5   69
+clusters 6   58
+clusters 7   397
+clusters 8   173
+clusters 9   61
+clusters 10   175
+clusters 11   57
+clusters 12   112
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   0.7
+clusters_size:    12
+clusters 0   460007
+clusters 1   2076
+clusters 2   80
+clusters 3   9019
+clusters 4   182
+clusters 5   58
+clusters 6   398
+clusters 7   173
+clusters 8   61
+clusters 9   175
+clusters 10   57
+clusters 11   112
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   0.8
+clusters_size:    12
+clusters 0   460015
+clusters 1   2076
+clusters 2   80
+clusters 3   9019
+clusters 4   182
+clusters 5   58
+clusters 6   398
+clusters 7   173
+clusters 8   61
+clusters 9   175
+clusters 10   57
+clusters 11   112
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   0.9
+clusters_size:    12
+clusters 0   460072
+clusters 1   2076
+clusters 2   80
+clusters 3   9019
+clusters 4   182
+clusters 5   58
+clusters 6   399
+clusters 7   173
+clusters 8   61
+clusters 9   175
+clusters 10   57
+clusters 11   112
+
+cluster_tolerance_:  0.02
+eps_angle_threshold_:   1
+clusters_size:    12
+clusters 0   460078
+clusters 1   2076
+clusters 2   80
+clusters 3   9019
+clusters 4   182
+clusters 5   58
+clusters 6   399
+clusters 7   173
+clusters 8   61
+clusters 9   175
+clusters 10   57
+clusters 11   112
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   0.1
+clusters_size:    17
+clusters 0   459000
+clusters 1   1763
+clusters 2   302
+clusters 3   268
+clusters 4   82
+clusters 5   9005
+clusters 6   333
+clusters 7   64
+clusters 8   58
+clusters 9   379
+clusters 10   189
+clusters 11   50
+clusters 12   63
+clusters 13   60
+clusters 14   175
+clusters 15   57
+clusters 16   113
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   0.2
+clusters_size:    12
+clusters 0   468802
+clusters 1   2075
+clusters 2   302
+clusters 3   69
+clusters 4   58
+clusters 5   384
+clusters 6   201
+clusters 7   184
+clusters 8   50
+clusters 9   60
+clusters 10   57
+clusters 11   113
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   0.3
+clusters_size:    12
+clusters 0   468951
+clusters 1   2075
+clusters 2   302
+clusters 3   69
+clusters 4   58
+clusters 5   395
+clusters 6   389
+clusters 7   51
+clusters 8   50
+clusters 9   61
+clusters 10   57
+clusters 11   113
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   0.4
+clusters_size:    10
+clusters 0   471110
+clusters 1   302
+clusters 2   69
+clusters 3   58
+clusters 4   396
+clusters 5   392
+clusters 6   50
+clusters 7   61
+clusters 8   57
+clusters 9   113
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   0.5
+clusters_size:    10
+clusters 0   471130
+clusters 1   302
+clusters 2   69
+clusters 3   58
+clusters 4   398
+clusters 5   392
+clusters 6   50
+clusters 7   61
+clusters 8   57
+clusters 9   113
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   0.6
+clusters_size:    10
+clusters 0   471144
+clusters 1   302
+clusters 2   69
+clusters 3   58
+clusters 4   398
+clusters 5   395
+clusters 6   50
+clusters 7   61
+clusters 8   57
+clusters 9   113
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   0.7
+clusters_size:    9
+clusters 0   471243
+clusters 1   302
+clusters 2   58
+clusters 3   398
+clusters 4   396
+clusters 5   51
+clusters 6   61
+clusters 7   57
+clusters 8   113
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   0.8
+clusters_size:    9
+clusters 0   471258
+clusters 1   302
+clusters 2   58
+clusters 3   398
+clusters 4   396
+clusters 5   51
+clusters 6   61
+clusters 7   57
+clusters 8   113
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   0.9
+clusters_size:    8
+clusters 0   471346
+clusters 1   302
+clusters 2   58
+clusters 3   399
+clusters 4   396
+clusters 5   61
+clusters 6   57
+clusters 7   113
+
+cluster_tolerance_:  0.03
+eps_angle_threshold_:   1
+clusters_size:    8
+clusters 0   471377
+clusters 1   302
+clusters 2   58
+clusters 3   399
+clusters 4   396
+clusters 5   61
+clusters 6   57
+clusters 7   113
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   0.1
+clusters_size:    14
+clusters 0   468078
+clusters 1   1763
+clusters 2   416
+clusters 3   273
+clusters 4   82
+clusters 5   333
+clusters 6   68
+clusters 7   58
+clusters 8   379
+clusters 9   366
+clusters 10   111
+clusters 11   63
+clusters 12   60
+clusters 13   56
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   0.2
+clusters_size:    10
+clusters 0   470919
+clusters 1   421
+clusters 2   69
+clusters 3   58
+clusters 4   384
+clusters 5   387
+clusters 6   51
+clusters 7   111
+clusters 8   61
+clusters 9   59
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   0.3
+clusters_size:    9
+clusters 0   471057
+clusters 1   422
+clusters 2   69
+clusters 3   58
+clusters 4   395
+clusters 5   389
+clusters 6   51
+clusters 7   111
+clusters 8   61
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   0.4
+clusters_size:    7
+clusters 0   471570
+clusters 1   69
+clusters 2   58
+clusters 3   396
+clusters 4   392
+clusters 5   111
+clusters 6   61
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   0.5
+clusters_size:    6
+clusters 0   471673
+clusters 1   69
+clusters 2   58
+clusters 3   398
+clusters 4   392
+clusters 5   111
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   0.6
+clusters_size:    6
+clusters 0   471735
+clusters 1   69
+clusters 2   58
+clusters 3   398
+clusters 4   395
+clusters 5   111
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   0.7
+clusters_size:    5
+clusters 0   471812
+clusters 1   58
+clusters 2   398
+clusters 3   396
+clusters 4   112
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   0.8
+clusters_size:    5
+clusters 0   471812
+clusters 1   58
+clusters 2   398
+clusters 3   396
+clusters 4   112
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   0.9
+clusters_size:    4
+clusters 0   471983
+clusters 1   58
+clusters 2   399
+clusters 3   396
+
+cluster_tolerance_:  0.04
+eps_angle_threshold_:   1
+clusters_size:    4
+clusters 0   471990
+clusters 1   58
+clusters 2   399
+clusters 3   396
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   0.1
+clusters_size:    12
+clusters 0   469873
+clusters 1   418
+clusters 2   273
+clusters 3   82
+clusters 4   337
+clusters 5   68
+clusters 6   169
+clusters 7   381
+clusters 8   415
+clusters 9   67
+clusters 10   60
+clusters 11   56
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   0.2
+clusters_size:    8
+clusters 0   471355
+clusters 1   69
+clusters 2   169
+clusters 3   395
+clusters 4   433
+clusters 5   51
+clusters 6   61
+clusters 7   59
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   0.3
+clusters_size:    6
+clusters 0   471587
+clusters 1   69
+clusters 2   169
+clusters 3   395
+clusters 4   433
+clusters 5   51
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   0.4
+clusters_size:    5
+clusters 0   471647
+clusters 1   69
+clusters 2   169
+clusters 3   396
+clusters 4   436
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   0.5
+clusters_size:    4
+clusters 0   471773
+clusters 1   169
+clusters 2   398
+clusters 3   439
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   0.6
+clusters_size:    4
+clusters 0   471810
+clusters 1   169
+clusters 2   398
+clusters 3   439
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   0.7
+clusters_size:    4
+clusters 0   471820
+clusters 1   170
+clusters 2   398
+clusters 3   440
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   0.8
+clusters_size:    4
+clusters 0   471849
+clusters 1   170
+clusters 2   398
+clusters 3   440
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   0.9
+clusters_size:    2
+clusters 0   472486
+clusters 1   399
+
+cluster_tolerance_:  0.05
+eps_angle_threshold_:   1
+clusters_size:    2
+clusters 0   472489
+clusters 1   399
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   0.1
+clusters_size:    11
+clusters 0   470194
+clusters 1   441
+clusters 2   82
+clusters 3   337
+clusters 4   68
+clusters 5   172
+clusters 6   381
+clusters 7   427
+clusters 8   104
+clusters 9   67
+clusters 10   60
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   0.2
+clusters_size:    6
+clusters 0   471399
+clusters 1   69
+clusters 2   606
+clusters 3   395
+clusters 4   112
+clusters 5   61
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   0.3
+clusters_size:    4
+clusters 0   471670
+clusters 1   69
+clusters 2   609
+clusters 3   395
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   0.4
+clusters_size:    4
+clusters 0   471689
+clusters 1   69
+clusters 2   610
+clusters 3   396
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   0.5
+clusters_size:    3
+clusters 0   471827
+clusters 1   610
+clusters 2   398
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   0.6
+clusters_size:    3
+clusters 0   471843
+clusters 1   610
+clusters 2   398
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   0.7
+clusters_size:    3
+clusters 0   471843
+clusters 1   611
+clusters 2   398
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   0.8
+clusters_size:    3
+clusters 0   471872
+clusters 1   611
+clusters 2   398
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   0.9
+clusters_size:    2
+clusters 0   472487
+clusters 1   399
+
+cluster_tolerance_:  0.06
+eps_angle_threshold_:   1
+clusters_size:    2
+clusters 0   472537
+clusters 1   399
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   0.1
+clusters_size:    10
+clusters 0   470217
+clusters 1   919
+clusters 2   82
+clusters 3   338
+clusters 4   68
+clusters 5   172
+clusters 6   381
+clusters 7   104
+clusters 8   68
+clusters 9   60
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   0.2
+clusters_size:    5
+clusters 0   472071
+clusters 1   69
+clusters 2   395
+clusters 3   112
+clusters 4   63
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   0.3
+clusters_size:    3
+clusters 0   472333
+clusters 1   69
+clusters 2   395
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   0.4
+clusters_size:    3
+clusters 0   472359
+clusters 1   69
+clusters 2   396
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   0.5
+clusters_size:    2
+clusters 0   472493
+clusters 1   398
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   0.6
+clusters_size:    2
+clusters 0   472500
+clusters 1   398
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   0.7
+clusters_size:    2
+clusters 0   472530
+clusters 1   398
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   0.8
+clusters_size:    2
+clusters 0   472530
+clusters 1   398
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   0.9
+clusters_size:    2
+clusters 0   472535
+clusters 1   399
+
+cluster_tolerance_:  0.07
+eps_angle_threshold_:   1
+clusters_size:    2
+clusters 0   472537
+clusters 1   399
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   0.1
+clusters_size:    10
+clusters 0   470232
+clusters 1   920
+clusters 2   82
+clusters 3   338
+clusters 4   68
+clusters 5   172
+clusters 6   381
+clusters 7   104
+clusters 8   68
+clusters 9   60
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   0.2
+clusters_size:    5
+clusters 0   472191
+clusters 1   58
+clusters 2   69
+clusters 3   395
+clusters 4   63
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   0.3
+clusters_size:    4
+clusters 0   472337
+clusters 1   58
+clusters 2   69
+clusters 3   395
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   0.4
+clusters_size:    3
+clusters 0   472428
+clusters 1   58
+clusters 2   396
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   0.5
+clusters_size:    3
+clusters 0   472493
+clusters 1   58
+clusters 2   398
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   0.6
+clusters_size:    3
+clusters 0   472504
+clusters 1   58
+clusters 2   398
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   0.7
+clusters_size:    3
+clusters 0   472535
+clusters 1   58
+clusters 2   398
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   0.8
+clusters_size:    3
+clusters 0   472535
+clusters 1   58
+clusters 2   398
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   0.9
+clusters_size:    3
+clusters 0   472539
+clusters 1   58
+clusters 2   399
+
+cluster_tolerance_:  0.08
+eps_angle_threshold_:   1
+clusters_size:    3
+clusters 0   472541
+clusters 1   58
+clusters 2   399
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   0.1
+clusters_size:    9
+clusters 0   470240
+clusters 1   1096
+clusters 2   82
+clusters 3   338
+clusters 4   68
+clusters 5   381
+clusters 6   118
+clusters 7   68
+clusters 8   60
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   0.2
+clusters_size:    5
+clusters 0   472216
+clusters 1   58
+clusters 2   69
+clusters 3   395
+clusters 4   63
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   0.3
+clusters_size:    3
+clusters 0   472445
+clusters 1   58
+clusters 2   396
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   0.4
+clusters_size:    3
+clusters 0   472473
+clusters 1   58
+clusters 2   396
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   0.5
+clusters_size:    3
+clusters 0   472517
+clusters 1   58
+clusters 2   398
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   0.6
+clusters_size:    3
+clusters 0   472520
+clusters 1   58
+clusters 2   398
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   0.7
+clusters_size:    3
+clusters 0   472550
+clusters 1   58
+clusters 2   398
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   0.8
+clusters_size:    3
+clusters 0   472551
+clusters 1   58
+clusters 2   398
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   0.9
+clusters_size:    3
+clusters 0   472555
+clusters 1   58
+clusters 2   399
+
+cluster_tolerance_:  0.09
+eps_angle_threshold_:   1
+clusters_size:    3
+clusters 0   472556
+clusters 1   58
+clusters 2   399
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   0.1
+clusters_size:    9
+clusters 0   470249
+clusters 1   1097
+clusters 2   82
+clusters 3   338
+clusters 4   68
+clusters 5   381
+clusters 6   120
+clusters 7   68
+clusters 8   60
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   0.2
+clusters_size:    5
+clusters 0   472228
+clusters 1   58
+clusters 2   69
+clusters 3   396
+clusters 4   63
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   0.3
+clusters_size:    3
+clusters 0   472449
+clusters 1   58
+clusters 2   396
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   0.4
+clusters_size:    3
+clusters 0   472475
+clusters 1   58
+clusters 2   396
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   0.5
+clusters_size:    3
+clusters 0   472548
+clusters 1   58
+clusters 2   399
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   0.6
+clusters_size:    3
+clusters 0   472551
+clusters 1   58
+clusters 2   399
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   0.7
+clusters_size:    3
+clusters 0   472552
+clusters 1   58
+clusters 2   399
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   0.8
+clusters_size:    3
+clusters 0   472553
+clusters 1   58
+clusters 2   399
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   0.9
+clusters_size:    2
+clusters 0   472956
+clusters 1   58
+
+cluster_tolerance_:  0.1
+eps_angle_threshold_:   1
+clusters_size:    2
+clusters 0   472957
+clusters 1   58
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   0.1
+clusters_size:    5
+clusters 0   471025
+clusters 1   1112
+clusters 2   344
+clusters 3   73
+clusters 4   60
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   0.2
+clusters_size:    2
+clusters 0   472897
+clusters 1   63
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   0.3
+clusters_size:    1
+clusters 0   472989
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   0.4
+clusters_size:    1
+clusters 0   472997
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   0.5
+clusters_size:    1
+clusters 0   473029
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   0.6
+clusters_size:    1
+clusters 0   473035
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   0.7
+clusters_size:    1
+clusters 0   473035
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   0.8
+clusters_size:    1
+clusters 0   473036
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   0.9
+clusters_size:    1
+clusters 0   473036
+
+cluster_tolerance_:  0.2
+eps_angle_threshold_:   1
+clusters_size:    1
+clusters 0   473036 
